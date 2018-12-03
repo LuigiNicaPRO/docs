@@ -2,3 +2,4 @@
 
 * [Initial page](README.md)
 
+* [Tags](tags.md)
