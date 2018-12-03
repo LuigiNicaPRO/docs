@@ -2,4 +2,10 @@
   "plugins": [
     "tags"
   ],
+  "pluginsConfig": {
+    "tags": {
+        "placement": "bottom"
+            }
+        }
 }
+
